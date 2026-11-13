@@ -1,2 +1,1 @@
-# Hospital-AI_Project
-AI hospital management system_Problems and ai solutions
+https://mehreen062008-ship-it.github.io/Hospital-AI_Project/
